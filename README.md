@@ -18,5 +18,8 @@ This project demonstrates how to host a high-performance static website on the c
 ├── style.css        # Custom stylesheet for UI design
 
 └── error.html       # Custom 404 error handling page
+
 🌐 Live Demo
+
 You can view the live hosting output here:
+https://muhammedaliansari.github.io/My-static-web-hosting/
